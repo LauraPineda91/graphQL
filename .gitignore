@@ -1,0 +1,15 @@
+# Dependency directories
+server/node_modules/
+
+
+# Optional npm cache directory
+.npm
+
+# dotenv environment variables file
+.env
+
+# IDE config
+.vscode
+
+# file to test methods
+sample.js
